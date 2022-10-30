@@ -17,3 +17,7 @@
 #### Penjelasannya
 ![gambar](gambar/gambar1.png)
 ### String Format
+![gambar](gambar/gambar4.png)
+![gambar](gambar/gambar4(a).png)
+
+## Latihan 2
