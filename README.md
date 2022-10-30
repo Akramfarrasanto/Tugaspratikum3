@@ -15,3 +15,5 @@
 ### String Format
 
 #### Penjelasannya
+![gambar](gambar/gambar1.png)
+### String Format
