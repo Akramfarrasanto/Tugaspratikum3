@@ -1,6 +1,12 @@
 ## Latihan 1
 
-#### Penggunaan end
+### Penggunaan end
 
 ####
-![gambar](gambar/gambar2.image)
+![gambar](gambar/gambar2.png)
+![gambar](gambar/gambar2(a).png)
+
+### Penggunaan separator
+
+####
+
