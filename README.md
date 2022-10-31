@@ -25,3 +25,7 @@
 ![gambar](gambar/gambar5(a).png)
 
 ## Latihan 3
+![gambar](gambar/gambar6.png)
+![gambar](gambar/gambar6(a).png)
+
+## Membuat Rumus Lingkaran dan Flowchart
