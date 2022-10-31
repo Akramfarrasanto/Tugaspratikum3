@@ -14,7 +14,7 @@
 
 ### String Format
 
-#### Penjelasannya
+#### Fungsi format() digunakan untuk mengatur format string yang nantinya akan dicetak atau ditampilkan ke layar.
 ![gambar](gambar/gambar1.png)
 ### String Format
 ![gambar](gambar/gambar4.png)
