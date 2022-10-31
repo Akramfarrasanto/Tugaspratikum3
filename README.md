@@ -8,7 +8,7 @@
 
 ### Penggunaan separator
 
-#### adalah pemisah(separator) yang berfungsi sebagai tanda pemisah antar objek yang dicetak. Defaultnya adalah tanda spas
+#### adalah pemisah(separator) Ketika kita memanggil fungsi print() untuk menampilkan multi argumen, python akan otomatis menambahkan karakter spasi sebagai pemisah antar argumen tersebut. Jika kita tidak ingin memisahkan spasi, maka kita menambahkan parameter (separator) saat memanggil print()
 ![gambar](gambar/gambar3.png)
 ![gambar](gambar/gambar3(a).png)
 
@@ -30,3 +30,4 @@
 
 ## Membuat Rumus Lingkaran dan Flowchart
 ![gambar](gambar/gambar13.png)
+![gambar](gambar/gambar8.png)
