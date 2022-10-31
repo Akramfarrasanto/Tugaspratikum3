@@ -2,13 +2,13 @@
 
 ### Penggunaan end
 
-#### Penjelasannya
+#### Parameter end berfungsi untuk mengganti karakter terakhir bawaan yang dicetak di layar.
 ![gambar](gambar/gambar2.png)
 ![gambar](gambar/gambar2(a).png)
 
 ### Penggunaan separator
 
-#### Penjelasannya
+#### adalah pemisah(separator) yang berfungsi sebagai tanda pemisah antar objek yang dicetak. Defaultnya adalah tanda spas
 ![gambar](gambar/gambar3.png)
 ![gambar](gambar/gambar3(a).png)
 
@@ -21,3 +21,7 @@
 ![gambar](gambar/gambar4(a).png)
 
 ## Latihan 2
+![gambar](gambar/gambar5.png)
+![gambar](gambar/gambar5(a).png)
+
+## Latihan 3
