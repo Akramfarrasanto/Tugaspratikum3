@@ -29,4 +29,4 @@
 ![gambar](gambar/gambar6(a).png)
 
 ## Membuat Rumus Lingkaran dan Flowchart
-![gambar](gambar/gambar7.png)
+![gambar](gambar/gambar13.png)
